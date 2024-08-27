@@ -190,7 +190,10 @@ The importance include:
 
 - Mercurial: A distributed version control system similar to Git, but with a focus on simplicity and ease of use. Mercurial is used in various projects and organizations for its robust handling of chaSoftware engineers encounter various challenges throughout the software development lifecycle. Addressing these challenges effectively is crucial for delivering high-quality software and maintaining a productive work environment. Here are some common challenges faced by software engineers, along with strategies to overcome them:
 
-1. Dealing with Changing Requirements
+
+
+
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.1. Dealing with Changing Requirements
 
 Challenge:
 - Requirement Changes: Requirements often evolve due to changes in business needs, stakeholder feedback, or market conditions, which can impact project scope and timelines.
@@ -272,7 +275,7 @@ Strategies:
 
 
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 
 
 
