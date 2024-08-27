@@ -118,7 +118,30 @@ Waterfall and agile methodologies have the following advantages and weakeness to
 - Customer Feedback: Projects where user feedback is crucial for refining and improving the product, such as web and mobile applications.
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance 
+
+ 1. Software Developer
+
+*Roles and Responsibilities:*
+
+- Code Development: Write, test, and maintain code according to project requirements and design specifications. This includes implementing features, fixing bugs, and optimizing performance.
+- Design and Architecture: Collaborate in designing software architecture and creating technical specifications. Developers may also be involved in defining system components and interfaces.
+- Code Review:Participate in code reviews to ensure code quality, adherence to coding standards, and proper documentation. Provide constructive feedback to peers.
+- Problem Solving: Troubleshoot and resolve technical issues that arise during development, testing, or after deployment.
+- Documentation: Maintain clear and up-to-date documentation of code, APIs, and technical decisions to facilitate future development and maintenance.
+- Collaboration: Work closely with other team members, including QA engineers and project managers, to ensure that development aligns with project goals and timelines.
+
+ 2. Quality Assurance (QA) Engineer
+Roles and Responsibilities:
+
+- Test Planning: Develop test plans and test cases based on project requirements, design documents, and user stories. Define testing strategies and methodologies to ensure comprehensive coverage.
+- Test Execution: Execute manual and automated tests to identify defects and verify that the software meets specified requirements. Perform regression, integration, system, and acceptance testing.
+- Bug Reporting: Identify, document, and track defects or issues found during testing. Provide detailed reports and work with developers to reproduce and resolve these issues.
+- Continuous Improvement: Suggest improvements to the testing process, tools, and techniques. Participate in retrospectives to improve the quality of testing and overall software quality.
+- Collaboration: Work closely with developers to understand the application, clarify requirements, and ensure that testing aligns with development progress. Provide feedback on the usability and performance of the software.
+- Automation: Develop and maintain automated test scripts to improve efficiency and coverage of repetitive testing tasks, if applicable.
+
+
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
