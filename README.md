@@ -40,6 +40,38 @@ The NATO Software Engineering Conference
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+The phases of software development include
+
+1. Requirement Analysis
+
+-  This phase involves gathering and analyzing the needs and requirements of the stakeholders and users. It aims to understand what the software should do, including functional and non-functional requirements. Techniques such as interviews, surveys, and document analysis are used to collect this information.
+  
+ 2. System Design
+
+-  Based on the requirements gathered, the design phase involves creating the architecture and detailed design of the software. This includes defining system components, data structures, interfaces, and user interfaces. The goal is to create a blueprint that will guide the development process.
+
+ 3. Implementation (Coding)
+
+-  In this phase, developers write the actual code based on the design specifications. It involves translating the design into a functional software product. This phase often includes unit testing to ensure that individual components work as intended.
+
+ 4. Testing
+
+-  Testing involves systematically checking the software for defects and ensuring it meets the specified requirements. This phase includes various types of testing, such as unit testing, integration testing, system testing, and user acceptance testing. The goal is to identify and fix any issues before the software is deployed.
+
+ 5.Deployment
+
+-  Once testing is complete and the software is deemed ready, it is deployed to the production environment where end users can access and use it. This phase may include installation, configuration, and training for users.
+
+6.Maintenance
+
+-  After deployment, the software enters the maintenance phase, which involves fixing bugs, making updates, and improving the software based on user feedback and changing requirements. This phase ensures that the software continues to operate effectively and remains relevant over time.
+
+ 7. Evaluation 
+
+-  Some models include an evaluation phase where the software’s performance is reviewed against the initial goals and requirements. This phase can provide insights for future improvements or lessons learned for subsequent projects.
+
+
+
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
